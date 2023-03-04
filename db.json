@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "userLogin": "Abramov",
+      "userPassword": "28051975",
+      "secondPassword": "28051975",
+      "id": 1
+    },
+    {
+      "userLogin": "TESTNAME",
+      "userPassword": "12345678",
+      "secondPassword": "12345678",
+      "id": 2
+    },
+    {
+      "userLogin": "Abramov",
+      "userPassword": "28051975",
+      "secondPassword": "28051975",
+      "id": 3
+    }
+  ]
+}
